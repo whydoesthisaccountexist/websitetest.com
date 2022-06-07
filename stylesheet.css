@@ -1,0 +1,11 @@
+* {
+    font-family: 'Times New Roman';
+    color: white;
+}
+
+body {
+    background-image: url('/images/WIP.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
